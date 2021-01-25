@@ -1,6 +1,6 @@
 # reading-notes
 ### Growth mindset  
-![Growth Mindset](https://www.talent-quarterly.com/wp-content/uploads/2020/04/Growth_mindset_illustration.jpg)
+![Growth Mindset](https://www.piperandgold.com/sites/default/files/pg.blogpostheadercassie.5.1.19-01.png)
 
 In the words of Marc Effron:
 > Proponents of this principle say people can improve if they just believe. But it’s time to separate positive intention from scientific proof.
