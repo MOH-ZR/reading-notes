@@ -1,5 +1,5 @@
 # reading-notes
-### Growth mindset
+### Growth mindset  
 ![Growth Mindset](https://www.talent-quarterly.com/wp-content/uploads/2020/04/Growth_mindset_illustration.jpg)
 
 In the words of Marc Effron:
