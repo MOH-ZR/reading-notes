@@ -1,5 +1,4 @@
-# reading-notes
-### Growth mindset  
+# Growth mindset  
 ![Growth Mindset](https://www.piperandgold.com/sites/default/files/pg.blogpostheadercassie.5.1.19-01.png)
 
 In the words of Marc Effron:
