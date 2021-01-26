@@ -4,6 +4,7 @@ I'm 28 years old, from Ajloun in the north of Jordan. I graduated 5 years a go f
 In general, I'm interested in information technology especially the hot topics like AI, ML and data Science,  these will change our wolrd to be a better place and sovle complex challenges that can't be solved before. I hope to be an entrepreneur who create and participate in making these technoloies. and this scholarship from ASAC is my first step on this way.
 
 ### My Reading Assignments - Code Fellows Academy
-|      Reading                   |      Web Page                |
-|--------------------------------|------------------------------|
-| lab-02a: Revisions & the Cloud | [Growth Mindset](/lab-02a.md)|
+|      Reading                            |      Web Page                |
+|-----------------------------------------|------------------------------|
+| lab-02a: Revisions & the Cloud          | [Growth Mindset](/lab-02a.md)|
+| read-03a: Structure Web Pages with HTML | [HTML basics](/read-03a.md)  |
