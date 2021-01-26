@@ -7,4 +7,6 @@ In general, I'm interested in information technology especially the hot topics l
 |      Reading                            |      Web Page                |
 |-----------------------------------------|------------------------------|
 | lab-02a: Revisions & the Cloud          | [Growth Mindset](/lab-02a.md)|
+| read-02a: Markdown & GitHub             | [MD & GitHub](/read-02a.md)  |
+| read-02b: Version Control System        | [Git](/read-02b.md)          |
 | read-03a: Structure Web Pages with HTML | [HTML basics](/read-03a.md)  |
