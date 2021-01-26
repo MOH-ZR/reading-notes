@@ -1,11 +1,3 @@
-# reading-notes
-### Growth mindset  
-![Growth Mindset](https://www.piperandgold.com/sites/default/files/pg.blogpostheadercassie.5.1.19-01.png)
+Mohammad Za'areer, 28 years old, from Ajloun in the north of Jordan. I graduated 5 years a go from Jordan University of Science and Technology with a Bachelor's degree in computer engineering. After graduation I worked as call center agent and then worked in marketing. and now I'm pursuing my passion to be a software developer during the upcoming 6 months at ASAC here in Amman.
 
-In the words of Marc Effron:
-> Proponents of this principle say people can improve if they just believe. But it’s time to separate positive intention from scientific proof.
-
- Let’s take a look at three common misconceptions about **growth mindset**:
- * I already have it, and I always have.
- * A growth mindset is just about praising and rewarding effort.
- * Just espouse a growth mindset, and good things will happen.
+In general, I'm interested in information technology especially the hot topics like AI, ML and data Science,  these will change our wolrd to be a better place and sovle complex challenges that can't be solved before. I hope to be an entrepreneur who create and participate in making these technoloies. and this scholarship from ASAC is my first step on this way.
