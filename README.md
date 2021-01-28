@@ -6,8 +6,9 @@ In general, I'm interested in information technology especially the hot topics l
 ### My Reading Assignments - Code Fellows Academy
 |      Reading                            |      Web Page                |
 |-----------------------------------------|------------------------------|
-| lab-02a: Revisions & the Cloud          | [Growth Mindset](/lab-02a.md)|
-| read-02a: Markdown & GitHub             | [MD & GitHub](/read-02a.md)  |
-| read-02b: Version Control System        | [Git](/read-02b.md)          |
-| read-03a: Structure Web Pages with HTML | [HTML basics](/read-03a.md)  |
-| read-04: Programming with JavaScript    | [JavaScript](/read-04.md)    |
+| lab-02a: Revisions & the Cloud          | [Growth Mindset](/lab-02a)   |
+| read-02a: Markdown & GitHub             | [MD & GitHub](/read-02a)     |
+| read-02b: Version Control System        | [Git](/read-02b)             |
+| read-03a: Structure Web Pages with HTML | [HTML basics](/read-03a)     |
+| read-04: Programming with JavaScript    | [JavaScript](/read-04)       |
+| read-05: Operators and Loops            | [Operators & Loops](/read-05)|
