@@ -7,14 +7,14 @@ In general, I'm interested in information technology especially the hot topics l
 
 |Code 102 Reading Notes|Web Page|
 |---------|----------|
-|lab-02a: Revisions & the Cloud|[Growth Mindset](/lab-02a.md)|
-|read-02a: Markdown & GitHub|[MD & GitHub](/read-02a.md)|
-|read-02b: Version Control System|[Git](/read-02b.md)|
-|read-03a: Structure Web Pages with HTML|[HTML basics](/read-03a.md)|
-|read-04: Programming with JavaScript|[JavaScript](/read-04.md)|
-|read-05: Operators and Loops|[Operators & Loops](/read-05.md)|
+|lab-02a: Revisions & the Cloud|[Growth Mindset](./lab-02a.md)|
+|read-02a: Markdown & GitHub|[MD & GitHub](./read-02a.md)|
+|read-02b: Version Control System|[Git](./read-02b.md)|
+|read-03a: Structure Web Pages with HTML|[HTML basics](./read-03a.md)|
+|read-04: Programming with JavaScript|[JavaScript](./read-04.md)|
+|read-05: Operators and Loops|[Operators & Loops](./read-05.md)|
 
 
 |Code 201 Reading Notes|Web Page|
 |---------|----------|
-|||
+|read-01: Introductory HTML and JavaScript|[Intro to HTML & JS](./read-01.md)|
