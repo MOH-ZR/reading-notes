@@ -1,8 +1,1 @@
-<<<<<<< HEAD
 theme: jekyll-theme-cayman
-markdown: kramdown
-kramdown:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-=======
-theme: jekyll-theme-time-machine
->>>>>>> d1159b7b4e1ef210b94e6ecbfc3a82966a57b048
