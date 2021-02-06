@@ -5,7 +5,7 @@ In general, I'm interested in information technology especially the hot topics l
 
 ### My Reading Assignments - Code Fellows Academy
 
-|Code-102 Reading Notes|Web Page|
+|Code 102 Reading Notes|Web Page|
 |---------|----------|
 |lab-02a: Revisions & the Cloud|[Growth Mindset](/lab-02a.md)|
 |read-02a: Markdown & GitHub|[MD & GitHub](/read-02a.md)|
@@ -14,7 +14,7 @@ In general, I'm interested in information technology especially the hot topics l
 |read-04: Programming with JavaScript|[JavaScript](/read-04.md)|
 |read-05: Operators and Loops|[Operators & Loops](/read-05.md)|
 
+
 |Code 201 Reading Notes|Web Page|
 |---------|----------|
-
-
+|||
