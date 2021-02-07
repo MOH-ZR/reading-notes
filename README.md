@@ -5,16 +5,30 @@ In general, I'm interested in information technology especially the hot topics l
 
 ### My Reading Assignments - Code Fellows Academy
 
-|Code 102 Reading Notes|Web Page|
+|Code 102|Web Page|
 |---------|----------|
-|lab-02a: Revisions & the Cloud|[Growth Mindset](./lab-02a.md)|
-|read-02a: Markdown & GitHub|[MD & GitHub](./read-02a.md)|
-|read-02b: Version Control System|[Git](./read-02b.md)|
-|read-03a: Structure Web Pages with HTML|[HTML basics](./read-03a.md)|
-|read-04: Programming with JavaScript|[JavaScript](./read-04.md)|
-|read-05: Operators and Loops|[Operators & Loops](./read-05.md)|
+|lab-02a: Revisions & the Cloud|[Growth Mindset](code-102/lab-02a.md)|
+|read-02a: Markdown & GitHub|[MD & GitHub](code-102/read-02a.md)|
+|read-02b: Version Control System|[Git](code-102/read-02b.md)|
+|read-03a: Structure Web Pages with HTML|[HTML basics](code-102/read-03a.md)|
+|read-04: Programming with JavaScript|[JavaScript](code-102/read-04.md)|
+|read-05: Operators and Loops|[Operators & Loops](code-102/read-05.md)|
 
 
-|Code 201 Reading Notes|Web Page|
+|Code 201|Web Page|
 |---------|----------|
-|read-01: Introductory HTML and JavaScript|[Intro to HTML & JS](./read-01.md)|
+|read-01|[Intro to HTML & JS](code-201/read-01.md)|
+|read-02|[link](code-201/read-02.md)|
+|read-03|[link](code-201/read-03.md)|
+|read-04|[link](code-201/read-04.md)|
+|read-05|[link](code-201/read-05.md)|
+|read-06|[link](code-201/read-06.md)|
+|read-07|[link](code-201/read-07.md)|
+|read-08|[link](code-201/read-08.md)|
+|read-09|[link](code-201/read-09.md)|
+|read-10|[link](code-201/read-10.md)|
+|read-11|[link](code-201/read-11.md)|
+|read-12|[link](code-201/read-12.md)|
+|read-13|[link](code-201/read-13.md)|
+|read-14|[link](code-201/read-14.md)|
+|read-15|[link](code-201/read-15.md)|
