@@ -12,10 +12,11 @@ Let's talk about two important words used commonly in web which are:
 * **Absolute Path** : starts with the domain name for the site such as *www.google.com*
 * **Relative Path** : starts with the name of a specific page within the same site such as *index.html*  
 
-For example, if I want to create a link to google website, follow the code below:
-    ```html
-        <a href="https://www.google.com/">Google</a>
-    ```
+For example, if I want to create a link to google website, follow the code below: 
+```html
+    <a href="https://www.google.com/">Google</a>
+```
+    
 There is many types of links and here some of them with example for every type:
 * links from one website to another.
     ```html
