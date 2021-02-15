@@ -23,7 +23,7 @@ In general, I'm interested in information technology especially the hot topics l
 |read-04|[HTML Links, JS Functions, and Intro to CSS Layout](code-201/read-04.md)|
 |read-05|[Images, Colors, Text](code-201/read-05.md)|
 |read-06|[Problem Domain, Objects, and the DOM](code-201/read-06.md)|
-|read-07|[link](code-201/read-07.md)|
+|read-07|[OOP and HTML Tables](code-201/read-07.md)|
 |read-08|[link](code-201/read-08.md)|
 |read-09|[link](code-201/read-09.md)|
 |read-10|[link](code-201/read-10.md)|
