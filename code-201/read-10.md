@@ -46,3 +46,5 @@ But :
 ```
 In the JavaScript interpreter, each execution context has its own **variables object**. It holds the variables, functions, and parameters available within it. Each execution context can also access its parent's variables object.
 
+## Understanding Errors  
+If a Javascript statement generates an error, then it throws an **exception**. At that point, the interpreter stops and looks for exception-handling.
