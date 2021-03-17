@@ -31,4 +31,7 @@ In general, I'm interested in information technology especially the hot topics l
 |read-12|[Chart.js & Canvas API](code-201/read-12.md)|
 |read-13|[History of Local Storage for Web Apps](code-201/read-13.md)|
 |read-14|[Advanced CSS and Google Prefect Team](code-201/read-14.md)|
-|read-15|[link](code-201/read-15.md)|
+
+|Code 301|web Page|
+|--------|--------|
+|read-01|[Responsive Web Design, Floats, SMACSS](code-301/read-01.md)|
