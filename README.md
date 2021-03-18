@@ -5,7 +5,7 @@ In general, I'm interested in information technology especially the hot topics l
 
 ### My Reading Assignments - Code Fellows Academy
 
-|Code 102|Web Page|
+|Code 102 - Intro to Software Development|Web Page|
 |---------|----------|
 |lab-02a: Revisions & the Cloud|[Growth Mindset](code-102/lab-02a.md)|
 |read-02a: Markdown & GitHub|[MD & GitHub](code-102/read-02a.md)|
@@ -15,7 +15,7 @@ In general, I'm interested in information technology especially the hot topics l
 |read-05: Operators and Loops|[Operators & Loops](code-102/read-05.md)|
 
 
-|Code 201|Web Page|
+|Code 201 - Foundations of Software Development|Web Page|
 |---------|----------|
 |read-01|[Intro to HTML & JS](code-201/read-01.md)|
 |read-02|[HTML, CSS, & JS Basics](code-201/read-02.md)|
@@ -32,6 +32,6 @@ In general, I'm interested in information technology especially the hot topics l
 |read-13|[History of Local Storage for Web Apps](code-201/read-13.md)|
 |read-14|[Advanced CSS and Google Prefect Team](code-201/read-14.md)|
 
-|Code 301|web Page|
+|Code 301 - Intermediate Software Development|web Page|
 |--------|--------|
 |read-01|[Responsive Web Design, Floats, SMACSS](code-301/read-01.md)|
