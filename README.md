@@ -35,3 +35,4 @@ In general, I'm interested in information technology especially the hot topics l
 |Code 301 - Intermediate Software Development|web Page|
 |--------|--------|
 |read-01|[Responsive Web Design, Floats, SMACSS](code-301/read-01.md)|
+|read-02|[jQuery, Events, and The DOM](code-301/read-02.md)|
