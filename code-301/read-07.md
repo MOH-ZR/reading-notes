@@ -1,0 +1,6 @@
+#  REST API
+Representational state transfer (REST) is a software architectural style which uses a subset of HTTP. It is commonly used to create interactive applications that use Web services. A Web service that follows these guidelines is called RESTful. Such a Web service must provide its Web resources in a textual representation and allow them to be read and modified with a stateless protocol and a predefined set of operations. This approach allows interoperability between the computer systems on the Internet that provide these services. REST is an alternative to, for example, SOAP as way to access a Web service
+
+"HTTP" is one of the most important breakthroughs in the history of computing.Because it is capable of describing the location of something anywhere in the world from anywhere in the world. It's the foundation of the web.
+
+ URLs tell the browser that there's a concept somewhere. A browser can then go ask for a specific representation of the concept. Specifically, the browser asks for the web page representation of the concept.
