@@ -44,3 +44,5 @@ In general, I'm interested in information technology especially the hot topics l
 |read-08|[SQL](code-301/read-08.md)|
 |read-09|[refactoring](code-301/read-09.md)|
 |read-10|[The Call Stack and Debugging](code-301/read-10.md)|
+|read-11|[EJS](code-301/read-11.md)|
+|read-12|[EJS Partials](code-301/read-12.md)|
