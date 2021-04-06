@@ -49,3 +49,4 @@ In general, I'm interested in information technology especially the hot topics l
 |read-13|[Snding Form Data](code-301/read-13.md)|
 |read-14a|[Data Normalization](code-301/read-14a.md)|
 |read-14b|[Project ideas](code-301/read-14a.md)|
+|read-15|[Diversity and Inclusion](code-301/read-15.md)|
