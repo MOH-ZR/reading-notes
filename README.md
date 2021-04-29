@@ -52,5 +52,5 @@ Summary for each reading assignment to keep track my observations and document m
 
 ## Code 401 - Advanced Software Development
 |Read|Link|
-|----|----|
+|-|-|
 |read-00|[problem soliving, time importance](code-401/read-00.md)|
