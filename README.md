@@ -1,7 +1,7 @@
 # Reading Notes
 Summary for each reading assignment to keep track my observations and document my new knowledge.  
 
-## Code 102 - Intro to Software Development
+## Code 102 - Intro to Software Development  
 |Read|Link|
 |----|----|
 |read-01|[Growth Mindset](code-102/lab-02a.md)|
@@ -12,7 +12,7 @@ Summary for each reading assignment to keep track my observations and document m
 |read-06|[Operators & Loops](code-102/read-05.md)|
 
 
-## Code 201 - Foundations of Software Development
+## Code 201 - Foundations of Software Development  
 |Read|Link|
 |----|----|
 |read-01|[Intro to HTML & JS](code-201/read-01.md)|
@@ -30,7 +30,7 @@ Summary for each reading assignment to keep track my observations and document m
 |read-13|[History of Local Storage for Web Apps](code-201/read-13.md)|
 |read-14|[Advanced CSS and Google Prefect Team](code-201/read-14.md)|
 
-## Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development  
 |Read|Link|
 |----|----|
 |read-01|[Responsive Web Design, Floats, SMACSS](code-301/read-01.md)|
@@ -50,7 +50,7 @@ Summary for each reading assignment to keep track my observations and document m
 |read-14b|[Project ideas](code-301/read-14a.md)|
 |read-15|[Diversity and Inclusion](code-301/read-15.md)|
 
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development  
 |Read|Link|
-|-|-|
+|---|---|
 |read-00|[problem soliving, time importance](code-401/read-00.md)|
