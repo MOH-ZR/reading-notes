@@ -3,7 +3,7 @@ Summary for each reading assignment to keep track my observations and document m
 
 ## Code 102 - Intro to Software Development
 |Read|Link|
-|---------|----------|
+|----|----|
 |read-01|[Growth Mindset](code-102/lab-02a.md)|
 |read-02|[MD & GitHub](code-102/read-02a.md)|
 |read-03|[Git](code-102/read-02b.md)|
@@ -14,7 +14,7 @@ Summary for each reading assignment to keep track my observations and document m
 
 ## Code 201 - Foundations of Software Development
 |Read|Link|
-|---------|----------|
+|----|----|
 |read-01|[Intro to HTML & JS](code-201/read-01.md)|
 |read-02|[HTML, CSS, & JS Basics](code-201/read-02.md)|
 |read-03|[HTML lists, Control Flow in JS and CSS Box Model](code-201/read-03.md)|
@@ -32,7 +32,7 @@ Summary for each reading assignment to keep track my observations and document m
 
 ## Code 301 - Intermediate Software Development
 |Read|Link|
-|--------|--------|
+|----|----|
 |read-01|[Responsive Web Design, Floats, SMACSS](code-301/read-01.md)|
 |read-02|[jQuery, Events, and The DOM](code-301/read-02.md)|
 |read-03|[Mustache and FlexBox](code-301/read-03.md)|
@@ -52,5 +52,5 @@ Summary for each reading assignment to keep track my observations and document m
 
 ## Code 401 - Advanced Software Development
 |Read|Link|
-|--------|--------|
+|----|----|
 |read-00|[problem soliving, time importance](code-401/read-00.md)|
