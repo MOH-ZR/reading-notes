@@ -55,3 +55,4 @@ Summary for each reading assignment to keep track my observations and document m
 |---|---|
 |read-00|[problem soliving, time importance](code-401/read-00.md)|
 |read-01|[Node Ecosystem, TDD, CI/CD](code-401/read-01.md)|
+|read-02|[Express](code-401/read-02.md)|
