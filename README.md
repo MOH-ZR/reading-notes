@@ -57,3 +57,4 @@ Summary for each reading assignment to keep track my observations and document m
 |read-01|[Node Ecosystem, TDD, CI/CD](code-401/read-01.md)|
 |read-02|[Express](code-401/read-02.md)|
 |read-03|[Express REST API](code-401/read-03.md)|
+|read-04|[Data Modeling](code-401/read-04.md)|
