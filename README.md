@@ -58,3 +58,4 @@ Summary for each reading assignment to keep track my observations and document m
 |read-02|[Express](code-401/read-02.md)|
 |read-03|[Express REST API](code-401/read-03.md)|
 |read-04|[Data Modeling](code-401/read-04.md)|
+|read-05|[Linked Lists](code-401/read-05.md)|
