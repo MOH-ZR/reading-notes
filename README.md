@@ -62,3 +62,4 @@ Summary for each reading assignment to keep track my observations and document m
 |read-06|[Authentication](code-401/read-06.md)|  
 |read-07|[Bearer Authorization](code-401/read-07.md)|  
 |read-08|[Access Control (ACL)](code-401/read-08.md)|
+|read-09|[OAuth](code-401/read-09.md)|
