@@ -13,10 +13,10 @@ Summary for each reading assignment to keep track my observations and document m
 
 
 ## Code 201 - Foundations of Software Development  
-|Read|Link|
-|----|----|
-|read-01|[Intro to HTML & JS](code-201/read-01.md)|
-|read-02|[HTML, CSS, & JS Basics](code-201/read-02.md)|
+|Read|Link|  
+|----|----|  
+|read-01|[Intro to HTML & JS](code-201/read-01.md)|  
+|read-02|[HTML, CSS, & JS Basics](code-201/read-02.md)|   
 |read-03|[HTML lists, Control Flow in JS and CSS Box Model](code-201/read-03.md)|
 |read-04|[HTML Links, JS Functions, and Intro to CSS Layout](code-201/read-04.md)|
 |read-05|[Images, Colors, Text](code-201/read-05.md)|
@@ -61,3 +61,4 @@ Summary for each reading assignment to keep track my observations and document m
 |read-05|[Linked Lists](code-401/read-05.md)|  
 |read-06|[Authentication](code-401/read-06.md)|  
 |read-07|[Bearer Authorization](code-401/read-07.md)|  
+|read-08|[Access Control (ACL)](code-401/read-08.md)|
