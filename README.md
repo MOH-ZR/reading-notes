@@ -67,4 +67,5 @@ Summary for each reading assignment to keep track my observations and document m
 |read-11|[Event Driven Applications](code-401/read-11.md)|
 |read-12|[Socket.io](code-401/read-12.md)|
 |read-13|[Message Queues](code-401/read-13.md)|
+|read-14|[ Event Driven Architecture](code-401/read-14.md)|
 |read-16|[AWS: Cloud Servers](code-401/read-16.md)|
