@@ -70,3 +70,4 @@ Summary for each reading assignment to keep track my observations and document m
 |read-14|[ Event Driven Architecture](code-401/read-14.md)|
 |read-15|[Trees Data Structure](code-401/read-15.md)|
 |read-16|[AWS: Cloud Servers](code-401/read-16.md)|
+|read-17|[AWS: S3 and Lambda](code-401/read-17.md)|
