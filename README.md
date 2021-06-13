@@ -73,3 +73,4 @@ Summary for each reading assignment to keep track my observations and document m
 |read-17|[AWS: S3 and Lambda](code-401/read-17.md)|
 |read-18|[AWS: API, Dynamo and Lambda](code-401/read-18.md)|
 |read-19|[AWS: Events](code-401/read-19.md)|
+|read-20|[Component Based UI](code-401/read-20.md)|
